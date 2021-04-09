@@ -1,5 +1,5 @@
 # aws-serverless-kickstart
-What?
+What?  
 A practitioner's guide to up and running in AWS with a starter python serverless function
 Why?
 You are interested in using AWS, learn better by doing rather than sitting through hours of videos, and you'd like a simple repeatable pattern to get you started using serverless tech.

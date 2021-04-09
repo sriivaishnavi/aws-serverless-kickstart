@@ -1,12 +1,6 @@
 # aws-serverless-kickstart
 What?
-A practitioner's guide to up and running in AWS with a starter python serverless function.
-
-
-References
-Here's some handy references:
-
-AWS Documentation index
+A practitioner's guide to up and running in AWS with a starter python serverless function
 Why?
 You are interested in using AWS, learn better by doing rather than sitting through hours of videos, and you'd like a simple repeatable pattern to get you started using serverless tech.
 
@@ -19,7 +13,3 @@ Here's what this kickstart covers:
 
 Open an AWS account (setup IAM user, MFA)
 
-References
-Here's some handy references:
-
-AWS Documentation index
